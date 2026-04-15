@@ -1,0 +1,3 @@
+Strings/NPCNames
+    - I chose not to translate normal names (even ones with Welsh equivalents like George) out of personal preference.
+    - "Gwyddon" is an archaic word for "wizard", I chose it instead of "dewin" (the modern word) because it sounds better.
