@@ -1,0 +1,11 @@
+{
+    "Name": "SDV Cymraeg",
+    "Author": "Suntooth",
+    "Version": "2.9.0",
+    "Description": "Cyfieithiad Cymraeg am Stardew Valley. / Welsh translation for Stardew Valley.",
+    "UniqueID": "Suntooth.SDVCymraeg",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    },
+}
