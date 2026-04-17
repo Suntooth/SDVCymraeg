@@ -1,3 +1,5 @@
+# Translation notes
+
 * I speak South Wales Welsh, so that's the dialect used in many places - for example, the Festival of Ice is "Gŵyl yr Iâ" instead of "Gŵyl y Rhew".
 * I chose not to translate normal names (even ones with Welsh equivalents) out of personal preference.
 * The Wizard's name, "Gwyddon" is an archaic word for "wizard"; I chose it instead of "dewin" (the modern word) because it sounds better.
