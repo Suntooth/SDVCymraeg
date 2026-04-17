@@ -6,7 +6,7 @@
             "Action": "EditData",
             "Target": "Data/AdditionalLanguages",
             "Entries": {
-                "{{ModId}}_Esperanto": { // for technical reasons, you need to specify the ID here *and* in the "ID" field
+                "{{ModId}}_Cymraeg": { // for technical reasons, you need to specify the ID here *and* in the "ID" field
                     "ID": "{{ModId}}_Cymraeg",
                     "LanguageCode": "cy",
                     "ButtonTexture": "Mods/{{ModId}}/Button",
