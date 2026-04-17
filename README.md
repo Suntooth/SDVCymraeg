@@ -2,7 +2,7 @@
 
 Cyfieithiad Cymraeg o "Stardew Valley". Gwaith ar fynd, efallai byth i orffen. Dim linc "Nexus" tan bod mwy o waith wedi'i wneud.
 
-Mae'r prosiect yma'n prosiect personol, felly does dim llawer o siawns bydd "pull requests" yn cael ei derbyn. Os ydych chi'n gweld camgymeriad, agor "issue". Peidiwch â defnyddio LLMs neu "generative AI" i gyfieithu neu prawfddarllen y prosiect.
+Mae'r prosiect yma'n prosiect personol, felly does dim llawer o siawns bydd "pull requests" yn cael ei derbyn. Os ydych chi'n gweld camgymeriad, agor "issue". Peidiwch â defnyddio LLMau neu "generative AI" i gyfieithu neu prawfddarllen y prosiect.
 
 -----
 
