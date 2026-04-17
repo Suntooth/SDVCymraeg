@@ -12,7 +12,7 @@
                     "ButtonTexture": "Mods/{{ModId}}/Button",
                     "UseLatinFont": true,
                     "TimeFormat": "[HOURS_12]:[MINUTES] [AM_PM]",
-                    "ClockTimeFormat": "[HOURS_12]:[MINUTES]",
+                    "ClockTimeFormat": "[HOURS_12]:[MINUTES] [AM_PM]",
                     "ClockDateFormat": "[DAY_OF_WEEK] [DAY_OF_MONTH]",
                     "UseGenderedCharacterTranslations": true,
                 }
